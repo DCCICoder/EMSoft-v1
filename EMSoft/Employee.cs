@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using Microsoft.Office.Interop;
+
 
 
 namespace EMSoft
@@ -254,7 +256,25 @@ namespace EMSoft
 
         private void pictureBox1_Click_1(object sender, EventArgs e)
         {
-
+            Con.Open();
+            SqlCommand cmd = new SqlCommand();
+            cmd.CommandText = "select * from Emp";
+            SqlDataAdapter sda = new SqlDataAdapter(cmd.CommandText, Con);
+            DataTable Dt = new DataTable();
+            sda.Fill(Dt);
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "Excel files (*.xls)|*.xls";
+            sfd.FilterIndex = 0;
+            sfd.RestoreDirectory = true;
+            sfd.CreatePrompt = true;
+            sfd.Title = "Save Exported File to ...";
+            Microsoft.Office.Interop.Excel.Application Xl = new Microsoft.Office.Interop.Excel.Application();
+            Xl.Application.Workbooks.Add(Dt);
+            Xl.Columns.ColumnWidth = 30;
+            Xl.ActiveWorkbook.SaveCopyAs(sfd.ShowDialog());
+            Xl.ActiveWorkbook.Saved = true;
+            Xl.Quit();
+            Con.Close();
         }
     }
 }

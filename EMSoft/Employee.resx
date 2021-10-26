@@ -582,7 +582,7 @@
     <value>BtnUpdate</value>
   </data>
   <data name="&gt;&gt;BtnUpdate.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;BtnUpdate.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -606,7 +606,7 @@
     <value>EmpDoj</value>
   </data>
   <data name="&gt;&gt;EmpDoj.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2DateTimePicker, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2DateTimePicker, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpDoj.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -657,7 +657,7 @@
     <value>EmpPos</value>
   </data>
   <data name="&gt;&gt;EmpPos.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2ComboBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2ComboBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpPos.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -708,7 +708,7 @@
     <value>EmpBGroup</value>
   </data>
   <data name="&gt;&gt;EmpBGroup.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2ComboBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2ComboBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpBGroup.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -735,7 +735,7 @@
     <value>EmpCommunicationAdd</value>
   </data>
   <data name="&gt;&gt;EmpCommunicationAdd.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpCommunicationAdd.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -762,7 +762,7 @@
     <value>EmpPermanentAdd</value>
   </data>
   <data name="&gt;&gt;EmpPermanentAdd.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpPermanentAdd.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -789,7 +789,7 @@
     <value>BtnEdit</value>
   </data>
   <data name="&gt;&gt;BtnEdit.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;BtnEdit.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -816,7 +816,7 @@
     <value>BtnDelete</value>
   </data>
   <data name="&gt;&gt;BtnDelete.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;BtnDelete.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -843,7 +843,7 @@
     <value>BtnAdd</value>
   </data>
   <data name="&gt;&gt;BtnAdd.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;BtnAdd.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -870,7 +870,7 @@
     <value>EmpContactNo</value>
   </data>
   <data name="&gt;&gt;EmpContactNo.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpContactNo.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -930,7 +930,7 @@
     <value>EmpMother</value>
   </data>
   <data name="&gt;&gt;EmpMother.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpMother.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -957,7 +957,7 @@
     <value>EmpName</value>
   </data>
   <data name="&gt;&gt;EmpName.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpName.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -984,7 +984,7 @@
     <value>EmpFather</value>
   </data>
   <data name="&gt;&gt;EmpFather.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpFather.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1011,7 +1011,7 @@
     <value>EmpPAN</value>
   </data>
   <data name="&gt;&gt;EmpPAN.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpPAN.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1038,7 +1038,7 @@
     <value>EmpIFSC</value>
   </data>
   <data name="&gt;&gt;EmpIFSC.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpIFSC.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1065,7 +1065,7 @@
     <value>EmpBank</value>
   </data>
   <data name="&gt;&gt;EmpBank.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpBank.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1092,7 +1092,7 @@
     <value>EmpEmail</value>
   </data>
   <data name="&gt;&gt;EmpEmail.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpEmail.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1119,7 +1119,7 @@
     <value>EmpAadhar</value>
   </data>
   <data name="&gt;&gt;EmpAadhar.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpAadhar.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1146,7 +1146,7 @@
     <value>EmpParentContactNo</value>
   </data>
   <data name="&gt;&gt;EmpParentContactNo.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpParentContactNo.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1173,7 +1173,7 @@
     <value>EmpID</value>
   </data>
   <data name="&gt;&gt;EmpID.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2TextBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;EmpID.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -1196,6 +1196,24 @@
   <data name="FullName.HeaderText" xml:space="preserve">
     <value>Full Name</value>
   </data>
+  <metadata name="Father.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Father.HeaderText" xml:space="preserve">
+    <value>Father</value>
+  </data>
+  <data name="Father.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <metadata name="Mother.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Mother.HeaderText" xml:space="preserve">
+    <value>Mother</value>
+  </data>
+  <data name="Mother.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <metadata name="Position.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -1207,15 +1225,6 @@
   </metadata>
   <data name="DOJ.HeaderText" xml:space="preserve">
     <value>D O J</value>
-  </data>
-  <metadata name="BloodGroup.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="BloodGroup.HeaderText" xml:space="preserve">
-    <value>Blood Group</value>
-  </data>
-  <data name="BloodGroup.Width" type="System.Int32, mscorlib">
-    <value>91</value>
   </data>
   <metadata name="EmailID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -1235,11 +1244,56 @@
   <data name="ParentsContact.HeaderText" xml:space="preserve">
     <value>Parent's Contact No</value>
   </data>
+  <metadata name="BloodGroup.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="BloodGroup.HeaderText" xml:space="preserve">
+    <value>Blood Group</value>
+  </data>
+  <data name="BloodGroup.Width" type="System.Int32, mscorlib">
+    <value>91</value>
+  </data>
+  <metadata name="AadharNo.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="AadharNo.HeaderText" xml:space="preserve">
+    <value>Aadhar No</value>
+  </data>
+  <data name="AadharNo.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <metadata name="PANNo.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <data name="PANNo.HeaderText" xml:space="preserve">
     <value>PAN No</value>
+  </data>
+  <metadata name="BankACNo.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="BankACNo.HeaderText" xml:space="preserve">
+    <value>Bank AC</value>
+  </data>
+  <data name="BankACNo.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <metadata name="IFSCCode.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="IFSCCode.HeaderText" xml:space="preserve">
+    <value>IFSC Code</value>
+  </data>
+  <data name="IFSCCode.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <metadata name="PermanentAdd.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="PermanentAdd.HeaderText" xml:space="preserve">
+    <value>Permanent Address</value>
+  </data>
+  <data name="PermanentAdd.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <metadata name="CommunicationAddress.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -18330,7 +18384,7 @@
     <value>guna2CirclePictureBox1</value>
   </data>
   <data name="&gt;&gt;guna2CirclePictureBox1.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2CirclePictureBox, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2CirclePictureBox, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;guna2CirclePictureBox1.Parent" xml:space="preserve">
     <value>Myprogress</value>
@@ -18354,7 +18408,7 @@
     <value>Myprogress</value>
   </data>
   <data name="&gt;&gt;Myprogress.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2CircleProgressBar, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2CircleProgressBar, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;Myprogress.Parent" xml:space="preserve">
     <value>$this</value>
@@ -18414,7 +18468,7 @@
     <value>BtnBack</value>
   </data>
   <data name="&gt;&gt;BtnBack.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.1, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
+    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4</value>
   </data>
   <data name="&gt;&gt;BtnBack.Parent" xml:space="preserve">
     <value>$this</value>
@@ -22963,6 +23017,18 @@
   <data name="&gt;&gt;FullName.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;Father.Name" xml:space="preserve">
+    <value>Father</value>
+  </data>
+  <data name="&gt;&gt;Father.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Mother.Name" xml:space="preserve">
+    <value>Mother</value>
+  </data>
+  <data name="&gt;&gt;Mother.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;Position.Name" xml:space="preserve">
     <value>Position</value>
   </data>
@@ -22973,12 +23039,6 @@
     <value>DOJ</value>
   </data>
   <data name="&gt;&gt;DOJ.Type" xml:space="preserve">
-    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;BloodGroup.Name" xml:space="preserve">
-    <value>BloodGroup</value>
-  </data>
-  <data name="&gt;&gt;BloodGroup.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;EmailID.Name" xml:space="preserve">
@@ -22999,10 +23059,40 @@
   <data name="&gt;&gt;ParentsContact.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;BloodGroup.Name" xml:space="preserve">
+    <value>BloodGroup</value>
+  </data>
+  <data name="&gt;&gt;BloodGroup.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AadharNo.Name" xml:space="preserve">
+    <value>AadharNo</value>
+  </data>
+  <data name="&gt;&gt;AadharNo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;PANNo.Name" xml:space="preserve">
     <value>PANNo</value>
   </data>
   <data name="&gt;&gt;PANNo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BankACNo.Name" xml:space="preserve">
+    <value>BankACNo</value>
+  </data>
+  <data name="&gt;&gt;BankACNo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;IFSCCode.Name" xml:space="preserve">
+    <value>IFSCCode</value>
+  </data>
+  <data name="&gt;&gt;IFSCCode.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PermanentAdd.Name" xml:space="preserve">
+    <value>PermanentAdd</value>
+  </data>
+  <data name="&gt;&gt;PermanentAdd.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;CommunicationAddress.Name" xml:space="preserve">

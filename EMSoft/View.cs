@@ -107,7 +107,8 @@ namespace EMSoft
 
         private void panel2_ClientSizeChanged(object sender, EventArgs e)
         {
-            EmpCommunicationAddLbl.MaximumSize = new Size((sender as Control).ClientSize.Width - EmpCommunicationAddLbl.Left, 10000);
+            EmpCommunicationAddLbl.MaximumSize = new Size(300,0);
+            EmpCommunicationAddLbl.AutoSize = true;
         }
     }
 }
